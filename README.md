@@ -155,7 +155,7 @@ From `join_date`:
 
 ```
 ├── data/
-│   └── loan_dataset_1000_rows.csv
+│   └── loan_dataset.csv
 ├── notebooks/
 │   └── preprocessing.ipynb
 ├── README.md
