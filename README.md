@@ -158,8 +158,6 @@ From `join_date`:
 │   └── loan_dataset_1000_rows.csv
 ├── notebooks/
 │   └── preprocessing.ipynb
-├── src/
-│   └── pipeline.py
 ├── README.md
 ```
 
