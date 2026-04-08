@@ -151,18 +151,6 @@ From `join_date`:
 
 ---
 
-## 📂 Project Structure
-
-```
-├── data/
-│   └── loan_dataset_1000_rows.csv
-├── notebooks/
-│   └── preprocessing.ipynb
-├── README.md
-```
-
----
-
 ## 📈 Expected Outcome
 
 By completing this project, you will:
